@@ -37,6 +37,6 @@ conmap.get(a.name).accountid=a.id;
 }
 
 }
-
+system.debug(conmap);
 }
 }
