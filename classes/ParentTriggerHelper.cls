@@ -26,6 +26,7 @@ acclist.add(a);
 }
 insert acclist;
 system.debug(conmap);
+system.debug(acclist);
 for (account a: acclist)
 {
 if (conmap.containskey(a.name))
