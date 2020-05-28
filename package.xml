@@ -3,13 +3,7 @@
     <types>
         <members>ParentTriggerHelper</members>
         <members>TestParentTrigger</members>
-        <members>TestTriggerExample</members>
         <name>ApexClass</name>
-    </types>
-    <types>
-        <members>CreateParentTrigger</members>
-        <members>TriggerExample</members>
-        <name>ApexTrigger</name>
     </types>
     <version>48.0</version>
 </Package>

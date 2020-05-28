@@ -1,5 +1,6 @@
 public class ParentTriggerHelper{
 
+    /*this is a new trigger */
 public static void NewAcccount(list<contact> conlist){
 
 list<contact> clist= new list<contact>();
@@ -11,7 +12,7 @@ for(contact c: conlist)
 {
 clist.add(c);
 }
-    
+system.debug(clist);    
 }
 map<string,contact>conmap =new map<string,contact>();
 
